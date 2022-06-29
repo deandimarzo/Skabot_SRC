@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Pick It Up",
+			"skabot",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ska",
+	"difficulties": "",
+	"weekCharacters": [
+		"skabot",
+		"bf",
+		"gf"
+	],
+	"storyName": "all my best friends are robots",
+	"weekName": "Ska Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

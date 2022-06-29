@@ -1,7 +1,6 @@
 function onCreate()
 	-- background 
-
-	makeLuaSprite('floor', 'floor', 0, 0);
+    makeLuaSprite('floor', 'floor', 0, 0);
 	setScrollFactor('floor', 1, 1);
     scaleObject('floor', 1.2, 1.2);
     
